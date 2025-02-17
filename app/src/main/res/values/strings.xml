@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SAS13_ITE393_AlarmsSchedulers</string>
+    <string name="set_alarm_in_5_seconds">Set Alarm in 5 Seconds</string>
+    <string name="cancel_alarm">Cancel Alarm</string>
+</resources>
